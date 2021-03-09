@@ -1,0 +1,81 @@
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\appsettings.json
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\DataModeling(ASP.Net Core).exe
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\DataModeling(ASP.Net Core).deps.json
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\DataModeling(ASP.Net Core).runtimeconfig.json
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\DataModeling(ASP.Net Core).runtimeconfig.dev.json
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\DataModeling(ASP.Net Core).dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\ref\DataModeling(ASP.Net Core).dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\DataModeling(ASP.Net Core).pdb
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\DataModeling(ASP.Net Core).Views.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\DataModeling(ASP.Net Core).Views.pdb
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).csprojAssemblyReference.cache
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).AssemblyInfo.cs
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).RazorAssemblyInfo.cache
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).RazorAssemblyInfo.cs
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\staticwebassets\DataModeling(ASP.Net Core).StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\staticwebassets\DataModeling(ASP.Net Core).StaticWebAssets.xml
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\scopedcss\bundle\DataModeling(ASP.Net Core).styles.css
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).TagHelpers.input.cache
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).TagHelpers.output.cache
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).RazorCoreGenerate.cache
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).RazorTargetAssemblyInfo.cs
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).Views.pdb
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\ref\DataModeling(ASP.Net Core).dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).pdb
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).genruntimeconfig.cache
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\obj\Debug\net5.0\DataModeling(ASP.Net Core).csproj.CopyComplete
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Firebase.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\LiteDB.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\System.Reactive.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\DataModeling(ASP.Net Core)\DataModeling(ASP.Net Core)\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
