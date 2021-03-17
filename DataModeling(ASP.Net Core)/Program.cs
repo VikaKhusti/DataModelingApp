@@ -13,6 +13,16 @@ namespace DataModeling_ASP.Net_Core_
     {
         public static void Main(string[] args)
         {
+            using (DatasContext db = new DatasContext())
+            {
+                var items = db.MainDates.ToList();
+                //item = items[0].ToString();
+                Console.WriteLine("Items:");
+                foreach (MainDate md in items)
+                {
+                    Console.WriteLine($"{md.Id} -- {md.Country} -- {md.Itemdate}");
+                }
+            }
             CreateHostBuilder(args).Build().Run();
         }
 
